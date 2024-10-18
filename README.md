@@ -1,8 +1,8 @@
-# Glassmorphism Style CSS File for Kagi Search Engine
+# Dark Glassmorphism Style CSS for Kagi Search
 
-Enhance your Kagi search experience with custom CSS animations and styles! It's a general overhaul of the search engine user interface and user experience.
+Enhance your Kagi search experience with custom CSS animations and styles with this otal overhaul of the UI.
 
-**The original was created by pdanzma, and I've just made the whole experience darker, and changed the orange buttons to blue.**
+**I loved the original theme by pdanzma, but decided to enhance it, make it darker, and change the orange buttons to blue.**
 
 ![Image Search](images/images.jpg)
 ---

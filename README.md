@@ -26,7 +26,7 @@ kagi-css is a custom CSS file to beautify and liven up the Kagi search engine in
 
 ## Installation
 
-1. Download the `pdanzma-darker-rogue.css` file from this repository.
+1. Download the latest `.zip` release from release tab.
 2. Copy the settings in the image below for the main "Appearance" tab.
 3. Paste the code into the inputfield at: [Link](https://kagi.com/settings?p=custom_css) & select Enable Custom CSS toggle.
 4. Save and enjoy your enhanced Kagi experience!

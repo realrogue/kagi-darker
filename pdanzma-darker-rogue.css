@@ -99,6 +99,18 @@ body,html,.mob{background-color:#040405;font-family:var(--font-lufga),system-ui}
 .theme_moon_dark {--search-result-url-link: #666;--search-result-title: #ccc}
 .__sri-desc {color:#ccc}
 .__srgi-title a{border-bottom:none!important}
+
+/*mobile fixes*/
+.mob .search-result, .sri-group {border-bottom:none!important;}
+.mob .inline-content+.search-result, .inline-content+.sri-group {border-top:none!important;margin-top:20px;}
+.mob .sri-group, .mob ._0_SRI {border-top:none!important;margin:20px 20px 0 20px;}
+.mob .widgetContent {margin:20px 0 40px 20px;}
+.mob .top-panel {margin:10px 0 -10px 0;}
+.mob .serp-nav {margin-top:10px;}
+.mob .videoResultRight {margin-right:20px;}
+.mob {overflow-x:hidden!important; position: relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; margin: 0;}
+html {overflow-x:hidden;}
+
 .newsResultItem .newsResultHeader .newsResultTitle a._0_TITLE{border-bottom:none!important}
 .wikipediaResult a{border-bottom:none!important;color:var(--button-color)}
 ._0_results_summary_box{border-bottom:none!important;margin-bottom:30px;background-color:#0a0b0e;border-radius:22px;padding:20px}

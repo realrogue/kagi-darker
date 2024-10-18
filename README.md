@@ -4,9 +4,11 @@ Enhance your Kagi search experience with custom CSS animations and styles! It's 
 
 **The original was created by pdanzma, and I've just made the whole experience darker, and changed the orange buttons to blue.**
 
-![Kagi CSS Glassmorphism](images/search.jpg)
+![Image Search](images/images.jpg)
 ---
-![Kagi CSS Navigation](images/videos.jpg)
+![Search](images/search.jpg)
+---
+![Video Search](images/videos.jpg)
 ---
 
 

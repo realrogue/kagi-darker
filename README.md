@@ -1,16 +1,12 @@
 # Glassmorphism Style CSS File for Kagi Search Engine
 
 Enhance your Kagi search experience with custom CSS animations and styles! It's a general overhaul of the search engine user interface and user experience.
+The original was created by pdanzma, and I've just made the whole experience darker, and changed the orange buttons to blue.
 
-![Kagi CSS Glassmorphism](images/glassmorphism.gif)
+![Kagi CSS Glassmorphism](images/search.jpg)
 ---
-![Kagi CSS Navigation](images/top-bar-navigation.gif)
+![Kagi CSS Navigation](images/videos.jpg)
 ---
-![Kagi CSS Button](images/button.gif)
----
-![Kagi CSS Quick Answer](images/quick-answer.gif)
----
-![Kagi CSS Settings](images/settings.gif)
 
 
 ## Overview
@@ -20,42 +16,22 @@ kagi-css is a custom CSS file to beautify and liven up the Kagi search engine in
 ## Features
 
 - **Glassmorphism**: A glass-inspired design for the settings and navigation bar
-- **Documentation**: This css file has been documented quite accurately, which is why it is relatively easy to make changes
 - **Custom Animations**: Smooth transitions and eye-catching effects
 - **Enhanced UI Elements**: Improved buttons, search bar, and results layout
 - **Responsive Design**: Looks great on both desktop and mobile devices
 - **Easy color changes**: There is a field at the beginning where you can easily change the most important colors as you wish
 - **Uniform Design**: The design now extends to almost all pages, be it results, images, videos, news or podcasts.
-  
-```
-:root{
-  --button-color:#F4B644;
-  --button-hover-color:#E6AB40;
-  --source-highlight-color:#D9A23C;
-  --sri-hover-color:#F4B644;
-  --color-search-input:#1e2028;
-  --color-search-input-border:var(--graphite-900);
-  --time-stamp:rgba(69,69,73,0.8);
-  --m_sri_gap_color:#222222!important;
-  --app-text:#fdfdfd!important;
-  --app-bg:#17191e;
-  --inline-widget-bg:#1e2028;
-  --primary-25:#1e2028;
-  --primary-50:#1e2028;
-  --primary-70:#17191e
-}
-```
+
 
 ## Installation
 
-1. Download the `custom.css` file from this repository.
-2. Enable custom CSS in Kagi Settings.
-3. Paste the code into the inputfield at: [Link](https://kagi.com/settings?p=custom_css)
+1. Download the `pdanzma-darker-rogue.css` file from this repository.
+2. Copy the settings in the image below for the main "Appearance" tab.
+3. Paste the code into the inputfield at: [Link](https://kagi.com/settings?p=custom_css) & select Enable Custom CSS toggle.
 4. Save and enjoy your enhanced Kagi experience!
 
-optional: It is planned that the "URL Placement” setting will be set to “Above Title” under the “Appearance” item.
+   ![Appearance Settings](images/settings.jpg)
 
-![URL Positioning](images/url-positioning.png)
 
 ## Animations
 

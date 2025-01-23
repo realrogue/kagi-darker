@@ -2,15 +2,14 @@
 
 I built this dark theme as I wasn't satisfied with any other theme out there.
 
-**I loved the original theme by pdanzma, but heavily modified it to suit my tastes, and to fix bugs on mobile in particular.**
+This is based on a wonderful theme by pdanzma, but I've heavily modified and cut it down to suit my tastes, and to fix bugs on mobile in particular.
 
 ![Image Search](images/dimages.jpg)
 ---
-![Search](images/dsearch.jpg)
----
-![Video Search](images/dvideos.jpg)
----
 ![iPhone](images/iphone.png)
+---
+
+### More images available in the [Gallery](GALLERY.md)
 ---
 
 ## Installation
@@ -26,4 +25,8 @@ I built this dark theme as I wasn't satisfied with any other theme out there.
 
 If you've found a bug, please send me a Discord message @rogue.au
 
-# Enjoy!
+---
+![Search](images/dsearch.jpg)
+---
+![Video Search](images/dvideos.jpg)
+---

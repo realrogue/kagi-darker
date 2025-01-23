@@ -1,30 +1,17 @@
 # Dark Glassmorphism Style CSS for Kagi Search
 
-Enhance your Kagi search experience with custom CSS animations and styles with this otal overhaul of the UI.
+I built this dark theme as I wasn't satisfied with any other theme out there.
 
-**I loved the original theme by pdanzma, but decided to enhance it, make it darker, and change the orange buttons to blue.**
+**I loved the original theme by pdanzma, but heavily modified it to suit my tastes, and to fix bugs on mobile in particular.**
 
-![Image Search](images/images.jpg)
+![Image Search](images/dimages.jpg)
 ---
-![Search](images/search.jpg)
+![Search](images/dsearch.jpg)
 ---
-![Video Search](images/videos.jpg)
+![Video Search](images/dvideos.jpg)
 ---
-
-
-## Overview
-
-kagi-css is a custom CSS file to beautify and liven up the Kagi search engine interface. With this stylesheet, you can enjoy a more visually appealing and dynamic search experience while using Kagi. Mainly inspired by Google and Brave Search, but with many exciting innovations of its own!
-
-## Features
-
-- **Glassmorphism**: A glass-inspired design for the settings and navigation bar
-- **Custom Animations**: Smooth transitions and eye-catching effects
-- **Enhanced UI Elements**: Improved buttons, search bar, and results layout
-- **Responsive Design**: Looks great on both desktop and mobile devices
-- **Easy color changes**: There is a field at the beginning where you can easily change the most important colors as you wish
-- **Uniform Design**: The design now extends to almost all pages, be it results, images, videos, news or podcasts.
-
+![iPhone](images/iphone.png)
+---
 
 ## Installation
 
@@ -35,17 +22,8 @@ kagi-css is a custom CSS file to beautify and liven up the Kagi search engine in
 
    ![Appearance Settings](images/settings.jpg)
 
+## Feedback
 
-## Animations
+If you've found a bug, please send me a Discord message @rogue.au
 
-kagi-css includes several animations to make your search experience more dynamic:
-
-1. **Results Fade-In**: Search results smoothly fade in as they load.
-2. **Hover Effects**: Buttons and links have pleasant hover transitions.
-3. **Search Tiles**: Also have beautiful animations.
-
-## Any ideas / comments?
-
-If you have an idea that would extend / complete the look of Kagi or if you have found a bug, please write to me on Discord or write in Discord: kagi-discussions -> “UI Design Ideas for my custom css”. [Link](https://discord.com/channels/1256077108111868035/1265596713083732060)
-
-# Enjoy your enhanced Kagi search experience!
+# Enjoy!

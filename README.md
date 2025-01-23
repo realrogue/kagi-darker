@@ -1,8 +1,11 @@
-# Dark Glassmorphism Style CSS for Kagi Search
+# Kagi Darker
+## A Dark Glassmorphism Style CSS for Kagi Search
 
 I built this dark theme as I wasn't satisfied with any other theme out there.
 
 This is based on a wonderful theme by pdanzma, but I've heavily modified and cut it down to suit my tastes, and to fix bugs on mobile in particular.
+
+**Please note that this only works with dark mode, it does not, and will not work with light mode.**
 
 ![Image Search](images/dimages.jpg)
 ---

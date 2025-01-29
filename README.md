@@ -3,7 +3,7 @@
 
 I built this dark theme as I wasn't satisfied with any other theme out there.
 
-This is based on a wonderful theme by pdanzma, but I've heavily modified and cut it down to suit my tastes, and to fix bugs on mobile in particular.
+This is based on a wonderful theme by [pdanzma](https://github.com/pdanzma/kagi-css), but I've heavily modified and cut it down to suit my tastes, and to fix bugs on mobile in particular.
 
 **Please note that this only works with dark mode, it does not, and will not work with light mode.**
 
@@ -28,6 +28,8 @@ This is based on a wonderful theme by pdanzma, but I've heavily modified and cut
 ## Feedback
 
 If you've found a bug, please send me a Discord message @rogue.au
+
+[Or see the discussion thread here.](https://discord.com/channels/1256077108111868035/1298129343683493948)
 
 ---
 ![Search](images/dsearch.jpg)

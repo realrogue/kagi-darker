@@ -17,10 +17,11 @@ This is based on a wonderful theme by pdanzma, but I've heavily modified and cut
 
 ## Installation
 
-1. Download the latest `.zip` release from release tab.
-2. Copy the settings in the image below for the main "Appearance" tab.
-3. Paste the code into the inputfield at: [Link](https://kagi.com/settings?p=custom_css) & select Enable Custom CSS toggle.
-4. Save and enjoy your enhanced Kagi experience!
+1. Download the latest kagi darker `.zip` release from release tab.
+2. Expand the zip and copy the entire contents of the css file.
+3. Paste the css into the input field at [Kagi Settings](https://kagi.com/settings?p=custom_css) & select Enable Custom CSS toggle.
+4. Copy the settings in the image below for the main "Appearance" tab.
+5. Save and enjoy your enhanced Kagi experience!
 
    ![Appearance Settings](images/settings.jpg)
 

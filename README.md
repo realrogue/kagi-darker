@@ -7,6 +7,8 @@ This is based on a wonderful theme by [pdanzma](https://github.com/pdanzma/kagi-
 
 **Please note that this only works with dark mode, it does not, and will not, work with light mode.**
 
+[Featured in the official Kagi Docs!](https://help.kagi.com/kagi/features/custom-css.html#kagi-darker)
+
 ![Image Search](images/dimages.jpg)
 ![iPhone](images/iphone.png)
 ---

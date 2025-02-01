@@ -31,13 +31,13 @@ This theme only works with dark mode, it does not, and will not, work with light
 
 ## Feedback
 
-If you've found a bug, please send me a Discord message @rogue.au
-
-[Or see the discussion thread here.](https://discord.com/channels/1256077108111868035/1298129343683493948)
+If you've found a bug, please comment on the [Discord thread here,](https://discord.com/channels/1256077108111868035/1298129343683493948) or the [Reddit thread here](https://www.reddit.com/r/SearchKagi/comments/1iclxjf/kagi_darker_a_glassmorphism_theme_inspired_by/)
 
 <br>
 
+### Images
 ---
 ![Search](images/dsearch.jpg)
 ![Video Search](images/dvideos.jpg)
 ---
+### More images available in the [Gallery](GALLERY.md)

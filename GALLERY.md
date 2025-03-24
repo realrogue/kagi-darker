@@ -1,5 +1,7 @@
 # Gallery
 
+![Video Search](images/dvideos.jpg)
+---
 ![News](images/dnews.jpg)
 ---
 ![Podcasts](images/dpodcasts.jpg)

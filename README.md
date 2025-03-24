@@ -10,6 +10,7 @@ This is based on a wonderful theme by [pdanzma](https://github.com/pdanzma/kagi-
 ### NOTE:
 This theme only works with dark mode, it does not, and will not, work with light mode. Make sure to follow instructions below.
 
+![Search](images/dsearch.jpg)
 ![Image Search](images/dimages.jpg)
 ![iPhone](images/iphone.png)
 ---
@@ -31,13 +32,8 @@ This theme only works with dark mode, it does not, and will not, work with light
 
 ## Feedback
 
-If you've found a bug, please comment on the [Discord thread here,](https://discord.com/channels/1256077108111868035/1298129343683493948) or the [Reddit thread here](https://www.reddit.com/r/SearchKagi/comments/1iclxjf/kagi_darker_a_glassmorphism_theme_inspired_by/)
+If you've found a bug, please raise an issue, or comment on the [Discord thread here,](https://discord.com/channels/1256077108111868035/1298129343683493948) or the [Reddit thread here](https://www.reddit.com/r/SearchKagi/comments/1iclxjf/kagi_darker_a_glassmorphism_theme_inspired_by/)
+
+**Known Issue**: Sometimes the image search grid won't load properly, just need to toggle custom CSS temporarily till you're done with the image search. Sorry about that.
 
 <br>
-
-### Images
----
-![Search](images/dsearch.jpg)
-![Video Search](images/dvideos.jpg)
----
-### More images available in the [Gallery](GALLERY.md)

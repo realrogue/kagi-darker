@@ -17,7 +17,7 @@ This is based on a wonderful theme by [pdanzma](https://github.com/pdanzma/kagi-
 ⭐️ [Featured in the official Kagi Docs!](https://help.kagi.com/kagi/features/custom-css.html#kagi-darker) ⭐️
 
 > [!IMPORTANT]
-> This theme only works with dark mode, it does not, and will not, work with light mode.
+> This theme only works with dark mode, it does not, and will not, work with light mode. <br>
 > Please follow [installation instructions](#installation) below.
 
 ![Search](images/dsearch.jpg)

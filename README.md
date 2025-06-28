@@ -31,8 +31,8 @@ This is based on a wonderful theme by [pdanzma](https://github.com/pdanzma/kagi-
 
 ## Installation
 
-1. Download the latest kagi-darker `.css` file from the Assets tab in releases.
-2. Copy the *entire* contents of the css file.
+1. Download the [latest](https://github.com/realrogue/kagi-darker/releases/latest) kagi-darker `.css` file.
+2. Copy the ***entire*** contents of the css file.
 3. Paste the css into the input field at [Kagi Settings](https://kagi.com/settings?p=custom_css) & turn on `Enable Custom CSS`.
 4. Copy the settings in the image below in the `Appearance` tab.
 5. Save and enjoy your enhanced Kagi experience!

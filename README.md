@@ -45,6 +45,6 @@ This is based on a wonderful theme by [pdanzma](https://github.com/pdanzma/kagi-
 
 If you've found a bug, please raise an issue, or comment on the [Discord thread here,](https://discord.com/channels/1256077108111868035/1298129343683493948) or the [Reddit thread here](https://www.reddit.com/r/SearchKagi/comments/1iclxjf/kagi_darker_a_glassmorphism_theme_inspired_by/)
 
-**Known Issue**: Sometimes the image search grid won't load properly, just need to toggle custom CSS temporarily till you're done with the image search. Sorry about that.
+**Known Issues**: none!
 
 <br>

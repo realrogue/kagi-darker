@@ -4,7 +4,7 @@
 
 <p align="center">Upgrade (and darken) your <a href="https://kagi.com/">Kagi Search</a> experience.</p>
 
-<p align="center"><a href="#kagi-darker">Intro</a> &bull; <a href="#installation">Installation</a> &bull; <a href="#feedback">Feedback</a> &bull; <a href="GALLERY.md">Gallery</a></p>
+<p align="center"><a href="#kagi-darker">Intro</a> &bull; <a href="#features">Features</a> &bull; <a href="#installation">Installation</a> &bull; <a href="#feedback">Feedback</a> &bull; <a href="GALLERY.md">Gallery</a></p>
 
 -----
 
@@ -28,6 +28,18 @@ This is based on a wonderful theme by [pdanzma](https://github.com/pdanzma/kagi-
 ### More images available in the [Gallery](GALLERY.md)
 
 <br>
+
+## Features
+
+* User-configurable colours at the top of the CSS file
+* Search results clearly dileanated into sections
+* Glassy header on desktop - inspired by Apple's Liquid Glass
+* Pure black background for AMOLED goodness
+* Pleasant animations throughout, and nice mouseover highlights make it feel interactive
+* Fully responsive using CSS selectors for desktop and mobile
+* Kagi Assistant theme that mirrors the search results, putting each message into a bubble so they're easier to read
+* Kagi Assistant now has a sticky input field that has the same glassy effect that the header does.
+* & much more!
 
 ## Installation
 

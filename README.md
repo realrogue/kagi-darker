@@ -21,7 +21,7 @@ This is based on a wonderful theme by [pdanzma](https://github.com/pdanzma/kagi-
 > Please follow [installation instructions](#installation) below.
 
 ![Search](images/dsearch.jpg)
-![Image Search](images/dimages.jpg)
+![Images Gif](images/images.gif)
 ![iPhone](images/iphone.png)
 ---
 
@@ -39,6 +39,7 @@ This is based on a wonderful theme by [pdanzma](https://github.com/pdanzma/kagi-
 
    ![Appearance Settings](images/settings.jpg)
 <br><br>
+
 
 ## Feedback
 

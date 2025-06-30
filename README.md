@@ -55,7 +55,7 @@ This is based on a wonderful theme by [pdanzma](https://github.com/pdanzma/kagi-
 
 ## Feedback
 
-If you've found a bug, please raise an issue, or comment on the [Discord thread here,](https://discord.com/channels/1256077108111868035/1298129343683493948) or the [Reddit thread here](https://www.reddit.com/r/SearchKagi/comments/1iclxjf/kagi_darker_a_glassmorphism_theme_inspired_by/)
+If you've found a bug, please [raise an issue](https://github.com/realrogue/kagi-darker/issues), comment on the [Discord thread here,](https://discord.com/channels/1256077108111868035/1298129343683493948) or the [Reddit thread here](https://www.reddit.com/r/SearchKagi/comments/1lmzzz4/dark_kagi_theme_inspired_by_liquid_glass_google/)
 
 **Known Issues**: none!
 

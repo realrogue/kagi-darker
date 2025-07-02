@@ -861,12 +861,6 @@ html {
 .auto_suggestions_lenses_edit_box:hover {
 	background-color: var(--sri-hover-color);
 }
-.top_podcast_item {
-	width: 130px;
-	background-color: var(--primary-25);
-	padding: 10px;
-	border-radius: 12px;
-}
 .widget-time-ago {
 	background-color: var(--button-color);
 	color: var(--primary-25);

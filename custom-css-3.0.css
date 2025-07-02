@@ -152,12 +152,12 @@
 .k_ui_btn_group .k_ui_btn.--active, .k_ui_btn_group .k_ui_btn:hover {
     background-color: var(--button-color);
     transition: all 0.2s ease;
-    color: var(--app-text)
+    color: var(--app-text);
 }
 .k_ui_btn_group input:checked+.k_ui_btn {
     background-color: var(--button-hover-color);
     transition: all 0.2s ease;
-    color: var(--app-text)
+    color: var(--app-text);
 }
 .advanced-search-modal-backdrop::before {
 	background-color: #121213;

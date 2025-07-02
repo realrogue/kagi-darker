@@ -152,12 +152,12 @@
 .k_ui_btn_group .k_ui_btn.--active, .k_ui_btn_group .k_ui_btn:hover {
     background-color: var(--button-color);
     transition: all 0.2s ease;
-    color: var(--app-text)
+    color: var(--app-text);
 }
 .k_ui_btn_group input:checked+.k_ui_btn {
     background-color: var(--button-hover-color);
     transition: all 0.2s ease;
-    color: var(--app-text)
+    color: var(--app-text);
 }
 .advanced-search-modal-backdrop::before {
 	background-color: #121213;
@@ -415,6 +415,10 @@ a.wiki-nw-link:hover {
 	background-color: var(--primary-25);
 	border-radius: 12px;
 	padding: 1.2rem 22px 0.7rem 18px;
+	padding-top: 1.2rem;
+	padding-right: 22px;
+	padding-bottom: 0.7rem;
+	padding-left: 18px;
 }
 .podcast_result .body .thumbnail img {
 	transition: box-shadow 0.5s ease;
@@ -861,12 +865,6 @@ html {
 .auto_suggestions_lenses_edit_box:hover {
 	background-color: var(--sri-hover-color);
 }
-.top_podcast_item {
-	width: 130px;
-	background-color: var(--primary-25);
-	padding: 10px;
-	border-radius: 12px;
-}
 .widget-time-ago {
 	background-color: var(--button-color);
 	color: var(--primary-25);
@@ -876,14 +874,6 @@ html {
 	padding: 0 6px;
 	margin-bottom: auto;
 	margin-top: auto;
-}
-.podcast_result {
-	background-color: var(--primary-25);
-	border-radius: 12px;
-	padding-top: 1.2rem;
-	padding-right: 22px;
-	padding-bottom: 0.7rem;
-	padding-left: 18px;
 }
 .scene {
 	padding: 1rem;

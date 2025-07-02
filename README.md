@@ -59,7 +59,7 @@ As I use it everyday, I should spot any issues, but if I've missed anything, **[
 
 If you've found a bug, please [raise an issue](https://github.com/realrogue/kagi-darker/issues), comment on the [Discord thread here,](https://discord.com/channels/1256077108111868035/1298129343683493948) or the [Reddit thread here](https://www.reddit.com/r/SearchKagi/comments/1lmzzz4/dark_kagi_theme_inspired_by_liquid_glass_google/)
 
-**Known Issues**: none!
+**Known Issues**: Kagi Translate is currently not supported. Please toggle "custom css" to off in the Translate settings until I can rework the theme code to suit Translate. Sorry for any inconvenience!
 
 <br>
 

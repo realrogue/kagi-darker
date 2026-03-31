@@ -8,6 +8,16 @@
 
 -----
 
+> [!NOTE]
+> ### Updates coming Soon™
+> The theme requires a complete rewrite to fix bugs, modernise and update to Kagi's latest additions.
+> 
+> See [Issues](#2)
+> 
+> Please add any other issues you find.
+
+-----
+
 ## Kagi Darker
 
 I built this dark theme as I wasn't satisfied with any other theme out there. Inspired by Google and Brave Search.

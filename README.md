@@ -12,7 +12,7 @@
 > ### Updates coming Soon™
 > The theme requires a complete rewrite to fix bugs, modernise and update to Kagi's latest additions.
 > 
-> See #2
+> See [#2](https://github.com/realrogue/kagi-darker/issues/2)
 > 
 > Please add any other issues you find.
 
